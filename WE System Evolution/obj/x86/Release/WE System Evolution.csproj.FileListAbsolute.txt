@@ -1,0 +1,128 @@
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\x86\Release\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE SysEv Compilado\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE SysEv Compilado\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE SysEv Compilado\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\x86\Release\WE System Evolution.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\x86\Release\WE_System_Evolution.Form1.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\x86\Release\WE_System_Evolution.Properties.Resources.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\x86\Release\WE System Evolution.csproj.GenerateResource.Cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\x86\Release\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\x86\Release\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\Nova pasta\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\Nova pasta\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\Nova pasta\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE SysEv Compilado\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE SysEv\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE SysEv\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE SysEv\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE SysEv\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE Complado 29.12.17\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE Complado 29.12.17\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE Complado 29.12.17\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE Complado 29.12.17\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE2\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE2\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE2\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE2\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE3\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE3\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE3\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE3\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE4\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE4\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE4\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE4\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE5\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE5\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE5\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE5\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE 7\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE 7\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE 7\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE 7\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE8\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE8\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE8\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE8\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE9\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE9\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE9\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE9\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\We10\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\We10\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\We10\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\We10\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE11\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE11\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE11\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE11\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE12\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE12\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE12\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE12\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE15\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE15\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE15\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE15\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE System\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE System\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE System\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution 2018\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution 2018\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution 2018\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution 2018\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Ev\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE System Ev\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE System Ev\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE System Ev\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\Compilação WE\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\Compilação WE\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\Compilação WE\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\Compilação WE\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\DBTemplate.bak
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.SqlServer.Smo.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\BarcodeLib.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\CamadaNegocio.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.SqlServer.Dmf.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\CamadaDados.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\Microsoft.SqlServer.Types.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\CamadaNegocio.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\pt\Microsoft.SqlServer.Dmf.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Release\x86\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\PROGRAMAÇÃO\PROJETOS\WE SYSTEM EVOLUTION\Desenvolvimento\BKP\VISUAL STUDIO 2015\ATIVOS\BKP 08.06.2018 - 09 08\WE System Evolution\WE System Evolution\bin\Release\x86\WE System Evolution.exe.config
+E:\PROGRAMAÇÃO\PROJETOS\WE SYSTEM EVOLUTION\Desenvolvimento\BKP\VISUAL STUDIO 2015\ATIVOS\BKP 08.06.2018 - 09 08\WE System Evolution\WE System Evolution\obj\x86\Release\WE System Evolution.exe
+E:\PROGRAMAÇÃO\PROJETOS\WE SYSTEM EVOLUTION\Desenvolvimento\BKP\VISUAL STUDIO 2015\ATIVOS\BKP 08.06.2018 - 09 08\WE System Evolution\WE System Evolution\obj\x86\Release\WE System Evolution.pdb

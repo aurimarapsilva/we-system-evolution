@@ -1,0 +1,173 @@
+c:\users\wagner m. alves\documents\visual studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\Debug\WE_System_Evolution.Properties.Resources.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csproj.GenerateResource.Cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe.config
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.exe
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.dll
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.dll
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.dll
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csprojResolveAssemblyReference.cache
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\obj\Debug\WE_System_Evolution.Properties.Resources.resources
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csproj.GenerateResource.Cache
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\obj\Debug\WE_System_Evolution.Properties.Resources.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csproj.GenerateResource.Cache
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe.config
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.exe
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.pdb
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.pdb
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.dll
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.dll
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.dll
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.pdb
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.pdb
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.pdb
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csprojResolveAssemblyReference.cache
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\obj\Debug\WE_System_Evolution.Properties.Resources.resources
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csproj.GenerateResource.Cache
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 01.10.2017    16 24\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe.config
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 01.10.2017    16 24\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.exe
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 01.10.2017    16 24\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe.config
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.exe
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.dll
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.dll
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.dll
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csprojResolveAssemblyReference.cache
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\obj\Debug\WE_System_Evolution.Properties.Resources.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csproj.GenerateResource.Cache
+F:\ESTRATEGIA WE\Start Project\ATUAL\GERADOR DE PARCELAS MELHORADO  16.10.2017 01 16\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe.config
+F:\ESTRATEGIA WE\Start Project\ATUAL\GERADOR DE PARCELAS MELHORADO  16.10.2017 01 16\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.exe
+F:\ESTRATEGIA WE\Start Project\ATUAL\GERADOR DE PARCELAS MELHORADO  16.10.2017 01 16\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.pdb
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 18.10.2017     18 16\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe.config
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 18.10.2017     18 16\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.exe
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 18.10.2017     18 16\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\obj\Debug\WE_System_Evolution.Form1.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe.config
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\DBTemplate.bak
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.exe
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\WE System Evolution.pdb
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\CamadaNegocio.pdb
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.Dmf.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\obj\Debug\WE_System_Evolution.Form1.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\obj\Debug\WE_System_Evolution.Properties.Resources.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\WE System Evolution\obj\Debug\WE System Evolution.csproj.GenerateResource.Cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\BarcodeLib.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\DBTemplate.bak
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\BarcodeLib.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.Dmf.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\WE System Evolution\obj\Debug\WE_System_Evolution.Form1.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.Dmf.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\WE System Evolution\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll

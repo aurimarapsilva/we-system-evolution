@@ -1,0 +1,610 @@
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Categoria.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.Cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Unid_Medida.resources
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.dll
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojResolveAssemblyReference.cache
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Categoria.resources
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Produto.resources
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Unid_Medida.resources
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.Cache
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Categoria.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Produto.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Unid_Medida.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.Cache
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Produto.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionario.resources
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.dll
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojResolveAssemblyReference.cache
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Categoria.resources
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionario.resources
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Produto.resources
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Unid_Medida.resources
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.Cache
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+F:\ESTRATEGIA WE\Start Project\ATUAL\BKP\VISUAL STUDIO 2015\BKP 30.09.2017    00 35\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tela_Principal.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Login.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedor.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Produto_Entrada.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.dll
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojResolveAssemblyReference.cache
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Categoria.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedor.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionario.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Login.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Produto.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tela_Principal.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Unid_Medida.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Produto_Entrada.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.Cache
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cliente.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Venda.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Venda.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Venda.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cliente.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedor.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionario.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Login.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tela_Principal.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Venda.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Produto_Entrada.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Livro_Caixa.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Livro_Caixa.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Caixa.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Caixa.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Numeracao_Auto.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Lancar_Credito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Lancar_Debito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Gerar_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\RdlCompile.cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\RdlCompile.compiled
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll.config
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll.config
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Gerar_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Lancar_Credito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Lancar_Debito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Numeracao_Auto.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\RdlCompile.cache
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\RdlCompile.compiled
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Configuracoes_gerais.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Assistente_Relatorios.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Cliente_OS.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_OS.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Equipamentos.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_OS.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tecnico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Assistente_Relatorios.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Cliente_OS.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_OS.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Configuracoes_gerais.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Equipamentos.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_OS.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tecnico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Atualizar_Dados_Secundários_OS.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Atualizar_OS.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Opcoes_Atualizar_OS.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Primeiro_Uso.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Lancar_Credito_Primeiro_Uso.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Backup_Restauracao_DB.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Cliente_Venda.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Formas_Pgto_Venda.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Abrir_Caixa.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cheque.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fechar_Caixa.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Info_Config_Backup.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Guiche_Atendimento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Caixa_Operacao_Dia.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Deletar_Mais_1_Item_Entrada.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Deletar_mais_1_Item_Venda.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Controle_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Controle_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Controle_Financas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_de_Origem_CCred.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_Origem_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pesquisa_Especifica_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pesquisa_Especifica_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Entrada_Origem_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhe_Config_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Desbloquear_Sistema.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Configuracoes.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Autenticar_Mensalidade.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Licenciamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Receber_Contas_Externo.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Receber_Contas_Interno.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Nivel_Acesso.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Solicitar_Permissao_Deletar_Conta_Receber.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Solicitar_Permissao_Deletar_Item_Venda.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Solicitar_Permissao_Inserir_Conta_Receber.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhe_Config_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pesquisar_Preco.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Pesquisa_Preco.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhes_Cheque.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Controle_Cheque.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_Origem_CDebito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_Origem_Cheque.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Inserir_Fab_Venc.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll.config
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\CamadaNegocio.pdb
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.Dmf.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Abrir_Caixa.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Assistente_Relatorios.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Atualizar_Dados_Secundários_OS.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Autenticar_Mensalidade.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Backup_Restauracao_DB.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Cliente_OS.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Cliente_Venda.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Atualizar_OS.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_OS.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Pesquisa_Preco.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Venda.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Caixa_Operacao_Dia.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Configuracoes_gerais.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Nivel_Acesso.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Controle_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Controle_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Controle_Cheque.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Deletar_Mais_1_Item_Entrada.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Deletar_mais_1_Item_Venda.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Desbloquear_Sistema.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhes_Cheque.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhe_Config_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhe_Config_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhe_Recebimento.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Equipamentos.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fechar_Caixa.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Formas_Pgto_Venda.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Gerar_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Gerar_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Caixa.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Categoria.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cliente.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedor.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionario.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Guiche_Atendimento.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cheque.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Info_Config_Backup.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Inserir_Fab_Venc.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Lancar_Credito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Lancar_Credito_Primeiro_Uso.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Lancar_Debito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Licenciamento.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Livro_Caixa.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Login.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Numeracao_Auto.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Opcoes_Atualizar_OS.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_OS.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pesquisar_Preco.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pesquisa_Especifica_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pesquisa_Especifica_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Primeiro_Uso.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Produto.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Quitar_Conta_Pagar.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Quitar_Conta_Receber.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Receber_Contas_Externo.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Receber_Contas_Interno.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Recebimento_Parcial_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Recebimento_Parcial_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Configuracoes.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Controle_Financas.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Solicitar_Permissao_Deletar_Conta_Receber.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Solicitar_Permissao_Deletar_Item_Venda.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Solicitar_Permissao_Inserir_Conta_Receber.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tecnico.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tela_Principal.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Unid_Medida.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Venda.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Produto_Entrada.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_de_Origem_CCred.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Entrada_Origem_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_Origem_CDebito.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_Origem_Cheque.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_Origem_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Comp_Venda_Parcelado.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Relatorio_Reposicao_Estoque.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Relatorio_Vencimento_Produtos.resources
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.Cache
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\RdlCompile.cache
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\RdlCompile.compiled
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.dll
+C:\Users\Wagner M. Alves\Music\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Comp_Venda_Parcelado_Guiche.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Comp_Venda_Demais_Formas_Pgto_Guiche.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Comp_Venda_Parcelado_Listagem.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Comp_Venda_Demais_Formas_Pgto_Listagem.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Clientes.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Clientes_LIstagem_Geral_Resumida.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Clientes_LIstagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Clientes_LIstagem_Especifica_Divida_Atual.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Estoque.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Dez_Mais_Vendidos.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Dez_Menos_Vendidos.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Inventario.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Relatorio_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Produto_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Vencimento_Produtos.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Reposicao_Produtos.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cliente_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Fornecedores.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedores_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedores_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedor_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Funcionarios.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Livro_Caixa.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionario_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Livro_Caixa_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Vencendo_Hoje.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Vencidas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Vencendo_Hoje.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Vencidas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Dez_Mais_Produtivos_Visao_Geral.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Dez_Menos_Produtivos_Visao_Geral.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Listagem_Geal_Comissoes_Receber.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionario_Especifico_Comissoes_Receber.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Cheque.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cartao_Credito_Listagem_Geral.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cartao_Credito_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cartao_Debito_Listagem_Geral.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cartao_Debito_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Depositar_Hoje.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Listagem_Geral.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Aguardando.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Depositados.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Devolvidos.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pagar_Contas_Externo.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pagar_Contas_Interno.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedor_Especifico_Divida_Atual.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Atalho_Novo_Cliente_Venda.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Atalho_Novo_Cliente_OS.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\BarcodeLib.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiquetas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6180_Categoria.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Etiquetas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6182_Categoria.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6181_Categoria.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Juros_Atraso.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Juros_Parcelamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6180_Prod_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6180_Tipo.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6181_Prod_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6181_Tipo.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6182_Prod_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6182_Tipo.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Crediario_Loja.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhes_Cheque_Multiformas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada_em_Dinheiro_Card_Cred.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada_em_Dinheiro_Cheque.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada_em_Dinheiro_Cred_Loja.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Credito_Multiformas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cheque_Multiformas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Crediario_Loja_Multiformas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Credito_Multiformas.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Preenchida_Eletro_Print_Master.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Preenchida_Automotivo_Print_Master.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_OS.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Imprimir_OS_Em_Branco.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Assistente_Impressao_Ordem_Serviço.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tarefas_OS_Em_Branco.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Em_Branco.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_OS_Pronto.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Eletro_Pagina_Anexo.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Automotivo_Pagina_Anexo.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\BarcodeLib.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.Dmf.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Abrir_Caixa.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Atalho_Novo_Cliente_OS.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Atalho_Novo_Cliente_Venda.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Atualizar_Dados_Secundários_OS.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Autenticar_Mensalidade.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Backup_Restauracao_DB.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Cliente_Venda.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_OS.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_OS_Pronto.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Atualizar_OS.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Etiquetas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Pesquisa_Preco.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Relatorio_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Caixa_Operacao_Dia.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Juros_Atraso.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Juros_Parcelamento.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Nivel_Acesso.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Controle_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Controle_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Controle_Cheque.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Deletar_Mais_1_Item_Entrada.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Deletar_mais_1_Item_Venda.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Desbloquear_Sistema.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhes_Cheque.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhes_Cheque_Multiformas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhe_Config_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhe_Config_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada_em_Dinheiro_Card_Cred.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada_em_Dinheiro_Cheque.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada_em_Dinheiro_Cred_Loja.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiquetas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fechar_Caixa.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Formas_Pgto_Venda.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Guiche_Atendimento.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Imprimir_OS_Em_Branco.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Credito_Multiformas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cheque.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cheque_Multiformas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Crediario_Loja.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Crediario_Loja_Multiformas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Info_Config_Backup.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Inserir_Fab_Venc.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Lancar_Credito_Primeiro_Uso.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Licenciamento.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Opcoes_Atualizar_OS.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pagar_Contas_Externo.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pagar_Contas_Interno.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pesquisar_Preco.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pesquisa_Especifica_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Pesquisa_Especifica_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Primeiro_Uso.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Assistente_Impressao_Ordem_Serviço.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Receber_Contas_Externo.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Receber_Contas_Interno.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Credito_Multiformas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Configuracoes.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Controle_Financas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Solicitar_Permissao_Deletar_Conta_Receber.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Solicitar_Permissao_Deletar_Item_Venda.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Solicitar_Permissao_Inserir_Conta_Receber.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tarefas_OS_Em_Branco.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Cartao_Credito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Cartao_Debito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Cheque.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Clientes.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Estoque.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Fornecedores.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Funcionarios.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Tipo_Relatorio_Livro_Caixa.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_de_Origem_CCred.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Entrada_Origem_Contas_Pagar.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_Origem_CDebito.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_Origem_Cheque.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ver_Venda_Origem_Contas_Receber.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cartao_Credito_Listagem_Geral.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cartao_Credito_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cartao_Debito_Listagem_Geral.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cartao_Debito_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Aguardando.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Depositados.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Depositar_Hoje.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Devolvidos.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Listagem_Geral.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cheque_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Clientes_LIstagem_Especifica_Divida_Atual.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Clientes_LIstagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Clientes_LIstagem_Geral_Resumida.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Cliente_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Comp_Venda_Demais_Formas_Pgto_Guiche.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Comp_Venda_Demais_Formas_Pgto_Listagem.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Comp_Venda_Parcelado_Guiche.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Comp_Venda_Parcelado_Listagem.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Vencendo_Hoje.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Pagar_Vencidas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Vencendo_Hoje.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Contas_Receber_Vencidas.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Dez_Mais_Vendidos.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Dez_Menos_Vendidos.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Inventario.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Produto_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Reposicao_Produtos.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Estoque_Vencimento_Produtos.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6180_Categoria.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6180_Prod_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6180_Tipo.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6181_Categoria.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6181_Prod_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6181_Tipo.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6182_Categoria.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6182_Prod_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Etiqueta_Carta_Pimaco6182_Tipo.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedores_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedores_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedor_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Fornecedor_Especifico_Divida_Atual.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Dez_Mais_Produtivos_Visao_Geral.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Dez_Menos_Produtivos_Visao_Geral.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Listagem_Geal_Comissoes_Receber.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionario_Especifico.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionario_Especifico_Comissoes_Receber.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Automotivo_Pagina_Anexo.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Eletro_Pagina_Anexo.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Em_Branco.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Preenchida_Automotivo_Print_Master.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Ordem_Servico_Preenchida_Eletro_Print_Master.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Listagem_Geral_Detalhado.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Funcionarios_Listagem_Geral_Resumido.resources
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Livro_Caixa_Periodo_Especifico.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Buscar_Produto_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Deletar_Mais_1_Item_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Detalhes_Cheque_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada_em_Dinheiro_Card_Cred_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada_em_Dinheiro_Cheque_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Entrada_em_Dinheiro_Cred_Loja_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Credito_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cartao_Debito_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Cheque_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Informacoes_Crediario_Loja_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Credito_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Selecionar_Bandeira_Cartao_Debito_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Orcamentos.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_Orcamento.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Config_OS.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.Dmf.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\pt\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\obj\Debug\CamadaApresentacao.FRM_Vendas_Fechamento_Dia.resources
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaApresentacao\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll

@@ -1,0 +1,21 @@
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaDados\bin\Debug\CamadaDados.dll
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaDados\bin\Debug\CamadaDados.pdb
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.dll
+F:\WE SYSTEM EVOLUTION\BKP Visual Studio\codificaão FRM PRODUTOS quase pronto 2\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Wagner M. Alves\Desktop\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaDados\bin\Debug\CamadaDados.dll
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaDados\bin\Debug\CamadaDados.pdb
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.csprojResolveAssemblyReference.cache
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.dll
+F:\ESTRATEGIA WE\05.10.2017 - 00 43 - PROJETO COM TBL_DETALHE_ENTRADA\WE System Evolution\CamadaDados\obj\Debug\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaDados\bin\Debug\CamadaDados.dll.config

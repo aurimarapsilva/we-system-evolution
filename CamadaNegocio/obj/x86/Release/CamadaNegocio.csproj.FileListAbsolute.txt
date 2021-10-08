@@ -1,0 +1,7 @@
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaNegocio\bin\x86\Release\CamadaNegocio.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaNegocio\bin\x86\Release\CamadaNegocio.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaNegocio\bin\x86\Release\CamadaDados.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaNegocio\bin\x86\Release\CamadaDados.pdb
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaNegocio\obj\x86\Release\CamadaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaNegocio\obj\x86\Release\CamadaNegocio.dll
+C:\Users\Wagner M. Alves\Documents\Visual Studio 2015\Projects\WE System Evolution\CamadaNegocio\obj\x86\Release\CamadaNegocio.pdb

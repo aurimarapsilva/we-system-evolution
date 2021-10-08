@@ -1,0 +1,2436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C79021A8-6BF8-410A-8DD4-2CDA542B4D73}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CamadaApresentacao</RootNamespace>
+    <AssemblyName>CamadaApresentacao</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeLib, Version=1.1.0.0, Culture=neutral, PublicKeyToken=5f09bda868cc39e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\BarcodeLib.1.1.0.0\lib\net20\BarcodeLib.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Smo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DS_Cartao_Credito.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Cartao_Credito.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Cartao_Debito.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Cartao_Debito.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Cheque.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Cheque.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Clientes.cs">
+      <DependentUpon>DS_Clientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Clientes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Clientes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Comprovante_Venda.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Comprovante_Venda.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Contas_Pagar.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Contas_Pagar.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Contas_Receber.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Contas_Receber.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Estoque.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Estoque.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Etiquetas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Etiquetas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Fornecedores.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Fornecedores.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Funcionarios.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Funcionarios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Livro_Caixa.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Livro_Caixa.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Orcamento.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Orcamento.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Ordem_Servico.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Ordem_Servico.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DS_Vendas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Vendas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Abrir_Caixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Abrir_Caixa.Designer.cs">
+      <DependentUpon>FRM_Abrir_Caixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Assistente_Relatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Assistente_Relatorios.Designer.cs">
+      <DependentUpon>FRM_Assistente_Relatorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="FRM_Atalho_Novo_Cliente_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Atalho_Novo_Cliente_OS.Designer.cs">
+      <DependentUpon>FRM_Atalho_Novo_Cliente_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Atalho_Novo_Cliente_Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Atalho_Novo_Cliente_Venda.Designer.cs">
+      <DependentUpon>FRM_Atalho_Novo_Cliente_Venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Atualizar_Dados_Secundários_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Atualizar_Dados_Secundários_OS.Designer.cs">
+      <DependentUpon>FRM_Atualizar_Dados_Secundários_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Autenticar_Mensalidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Autenticar_Mensalidade.Designer.cs">
+      <DependentUpon>FRM_Autenticar_Mensalidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Backup_Restauracao_DB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Backup_Restauracao_DB.Designer.cs">
+      <DependentUpon>FRM_Backup_Restauracao_DB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Cliente_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Cliente_OS.Designer.cs">
+      <DependentUpon>FRM_Buscar_Cliente_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Cliente_Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Cliente_Venda.Designer.cs">
+      <DependentUpon>FRM_Buscar_Cliente_Venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Buscar_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_OS.Designer.cs">
+      <DependentUpon>FRM_Buscar_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_OS_Pronto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_OS_Pronto.Designer.cs">
+      <DependentUpon>FRM_Buscar_OS_Pronto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Atualizar_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Atualizar_OS.Designer.cs">
+      <DependentUpon>FRM_Buscar_Produto_Atualizar_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Etiquetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Etiquetas.Designer.cs">
+      <DependentUpon>FRM_Buscar_Produto_Etiquetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Buscar_Produto_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_OS.Designer.cs">
+      <DependentUpon>FRM_Buscar_Produto_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Pesquisa_Preco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Pesquisa_Preco.Designer.cs">
+      <DependentUpon>FRM_Buscar_Produto_Pesquisa_Preco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Relatorio_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Relatorio_Especifico.Designer.cs">
+      <DependentUpon>FRM_Buscar_Produto_Relatorio_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Buscar_Produto_Venda.Designer.cs">
+      <DependentUpon>FRM_Buscar_Produto_Venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Caixa_Operacao_Dia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Caixa_Operacao_Dia.Designer.cs">
+      <DependentUpon>FRM_Caixa_Operacao_Dia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Configuracoes_gerais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Configuracoes_gerais.Designer.cs">
+      <DependentUpon>FRM_Configuracoes_gerais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Config_Cartao_Credito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Config_Cartao_Credito.Designer.cs">
+      <DependentUpon>FRM_Config_Cartao_Credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Config_Cartao_Debito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Config_Cartao_Debito.Designer.cs">
+      <DependentUpon>FRM_Config_Cartao_Debito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Config_Juros_Atraso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Config_Juros_Atraso.Designer.cs">
+      <DependentUpon>FRM_Config_Juros_Atraso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Config_Juros_Parcelamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Config_Juros_Parcelamento.Designer.cs">
+      <DependentUpon>FRM_Config_Juros_Parcelamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Config_Nivel_Acesso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Config_Nivel_Acesso.Designer.cs">
+      <DependentUpon>FRM_Config_Nivel_Acesso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Config_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Config_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Config_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Config_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Config_OS.Designer.cs">
+      <DependentUpon>FRM_Config_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Controle_Cartao_Credito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Controle_Cartao_Credito.Designer.cs">
+      <DependentUpon>FRM_Controle_Cartao_Credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Controle_Cartao_Debito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Controle_Cartao_Debito.Designer.cs">
+      <DependentUpon>FRM_Controle_Cartao_Debito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Controle_Cheque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Controle_Cheque.Designer.cs">
+      <DependentUpon>FRM_Controle_Cheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Deletar_Mais_1_Item_Entrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Deletar_Mais_1_Item_Entrada.Designer.cs">
+      <DependentUpon>FRM_Deletar_Mais_1_Item_Entrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Deletar_Mais_1_Item_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Deletar_Mais_1_Item_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Deletar_Mais_1_Item_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Deletar_mais_1_Item_Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Deletar_mais_1_Item_Venda.Designer.cs">
+      <DependentUpon>FRM_Deletar_mais_1_Item_Venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Desbloquear_Sistema.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Desbloquear_Sistema.Designer.cs">
+      <DependentUpon>FRM_Desbloquear_Sistema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Detalhes_Cheque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Detalhes_Cheque.Designer.cs">
+      <DependentUpon>FRM_Detalhes_Cheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Detalhes_Cheque_Multiformas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Detalhes_Cheque_Multiformas.Designer.cs">
+      <DependentUpon>FRM_Detalhes_Cheque_Multiformas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Detalhes_Cheque_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Detalhes_Cheque_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Detalhes_Cheque_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Detalhe_Config_Cartao_Credito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Detalhe_Config_Cartao_Credito.Designer.cs">
+      <DependentUpon>FRM_Detalhe_Config_Cartao_Credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Detalhe_Config_Cartao_Debito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Detalhe_Config_Cartao_Debito.Designer.cs">
+      <DependentUpon>FRM_Detalhe_Config_Cartao_Debito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Card_Cred.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Card_Cred.Designer.cs">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Card_Cred.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Card_Cred_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Card_Cred_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Card_Cred_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Cheque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Cheque.Designer.cs">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Cheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Cheque_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Cheque_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Cheque_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Cred_Loja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Cred_Loja.Designer.cs">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Cred_Loja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Cred_Loja_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Entrada_em_Dinheiro_Cred_Loja_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Cred_Loja_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Equipamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Equipamentos.Designer.cs">
+      <DependentUpon>FRM_Equipamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Etiquetas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Etiquetas.Designer.cs">
+      <DependentUpon>FRM_Etiquetas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Fechar_Caixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Fechar_Caixa.Designer.cs">
+      <DependentUpon>FRM_Fechar_Caixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Formas_Pgto_Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Formas_Pgto_Venda.Designer.cs">
+      <DependentUpon>FRM_Formas_Pgto_Venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Gerar_Contas_Pagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Gerar_Contas_Pagar.Designer.cs">
+      <DependentUpon>FRM_Gerar_Contas_Pagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Caixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Caixa.Designer.cs">
+      <DependentUpon>FRM_Caixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Categoria.Designer.cs">
+      <DependentUpon>FRM_Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Cliente.Designer.cs">
+      <DependentUpon>FRM_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Contas_Pagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Contas_Pagar.Designer.cs">
+      <DependentUpon>FRM_Contas_Pagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Contas_Receber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Contas_Receber.Designer.cs">
+      <DependentUpon>FRM_Contas_Receber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Entrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Entrada.Designer.cs">
+      <DependentUpon>FRM_Entrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Fornecedor.Designer.cs">
+      <DependentUpon>FRM_Fornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Funcionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Funcionario.Designer.cs">
+      <DependentUpon>FRM_Funcionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Guiche_Atendimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Guiche_Atendimento.Designer.cs">
+      <DependentUpon>FRM_Guiche_Atendimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Imprimir_OS_Em_Branco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Imprimir_OS_Em_Branco.Designer.cs">
+      <DependentUpon>FRM_Imprimir_OS_Em_Branco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Credito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Credito.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Cartao_Credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Credito_Multiformas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Credito_Multiformas.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Cartao_Credito_Multiformas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Credito_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Credito_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Cartao_Credito_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Debito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Debito.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Cartao_Debito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Debito_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cartao_Debito_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Cartao_Debito_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cheque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cheque.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Cheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cheque_Multiformas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cheque_Multiformas.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Cheque_Multiformas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cheque_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Cheque_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Cheque_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Crediario_Loja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Crediario_Loja.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Crediario_Loja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Crediario_Loja_Multiformas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Crediario_Loja_Multiformas.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Crediario_Loja_Multiformas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Crediario_Loja_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Informacoes_Crediario_Loja_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Informacoes_Crediario_Loja_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Info_Config_Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Info_Config_Backup.Designer.cs">
+      <DependentUpon>FRM_Info_Config_Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Inserir_Fab_Venc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Inserir_Fab_Venc.Designer.cs">
+      <DependentUpon>FRM_Inserir_Fab_Venc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Lancar_Credito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Lancar_Credito.Designer.cs">
+      <DependentUpon>FRM_Lancar_Credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Lancar_Credito_Primeiro_Uso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Lancar_Credito_Primeiro_Uso.Designer.cs">
+      <DependentUpon>FRM_Lancar_Credito_Primeiro_Uso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Lancar_Debito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Lancar_Debito.Designer.cs">
+      <DependentUpon>FRM_Lancar_Debito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Licenciamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Licenciamento.Designer.cs">
+      <DependentUpon>FRM_Licenciamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Livro_Caixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Livro_Caixa.Designer.cs">
+      <DependentUpon>FRM_Livro_Caixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Login.Designer.cs">
+      <DependentUpon>FRM_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Numeracao_Auto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Numeracao_Auto.Designer.cs">
+      <DependentUpon>FRM_Numeracao_Auto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Opcoes_Atualizar_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Opcoes_Atualizar_OS.Designer.cs">
+      <DependentUpon>FRM_Opcoes_Atualizar_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_OS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_OS.Designer.cs">
+      <DependentUpon>FRM_OS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Pagar_Contas_Externo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Pagar_Contas_Externo.Designer.cs">
+      <DependentUpon>FRM_Pagar_Contas_Externo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Pagar_Contas_Interno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Pagar_Contas_Interno.Designer.cs">
+      <DependentUpon>FRM_Pagar_Contas_Interno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Pesquisar_Preco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Pesquisar_Preco.Designer.cs">
+      <DependentUpon>FRM_Pesquisar_Preco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Pesquisa_Especifica_Contas_Pagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Pesquisa_Especifica_Contas_Pagar.Designer.cs">
+      <DependentUpon>FRM_Pesquisa_Especifica_Contas_Pagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Pesquisa_Especifica_Contas_Receber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Pesquisa_Especifica_Contas_Receber.Designer.cs">
+      <DependentUpon>FRM_Pesquisa_Especifica_Contas_Receber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Primeiro_Uso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Primeiro_Uso.Designer.cs">
+      <DependentUpon>FRM_Primeiro_Uso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Assistente_Impressao_Ordem_Serviço.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Assistente_Impressao_Ordem_Serviço.Designer.cs">
+      <DependentUpon>FRM_Assistente_Impressao_Ordem_Serviço.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Produto.Designer.cs">
+      <DependentUpon>FRM_Produto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Receber_Contas_Externo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Receber_Contas_Externo.Designer.cs">
+      <DependentUpon>FRM_Receber_Contas_Externo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Receber_Contas_Interno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Receber_Contas_Interno.Designer.cs">
+      <DependentUpon>FRM_Receber_Contas_Interno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Credito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Credito.Designer.cs">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Credito_Multiformas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Credito_Multiformas.Designer.cs">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Credito_Multiformas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Credito_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Credito_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Credito_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Debito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Debito.Designer.cs">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Debito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Debito_Orcamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Bandeira_Cartao_Debito_Orcamento.Designer.cs">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Debito_Orcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Configuracoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Configuracoes.Designer.cs">
+      <DependentUpon>FRM_Selecionar_Configuracoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Controle_Financas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Selecionar_Controle_Financas.Designer.cs">
+      <DependentUpon>FRM_Selecionar_Controle_Financas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Solicitar_Permissao_Deletar_Conta_Receber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Solicitar_Permissao_Deletar_Conta_Receber.Designer.cs">
+      <DependentUpon>FRM_Solicitar_Permissao_Deletar_Conta_Receber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Solicitar_Permissao_Deletar_Item_Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Solicitar_Permissao_Deletar_Item_Venda.Designer.cs">
+      <DependentUpon>FRM_Solicitar_Permissao_Deletar_Item_Venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Solicitar_Permissao_Inserir_Conta_Receber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Solicitar_Permissao_Inserir_Conta_Receber.Designer.cs">
+      <DependentUpon>FRM_Solicitar_Permissao_Inserir_Conta_Receber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tarefas_OS_Em_Branco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tarefas_OS_Em_Branco.Designer.cs">
+      <DependentUpon>FRM_Tarefas_OS_Em_Branco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tecnico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tecnico.Designer.cs">
+      <DependentUpon>FRM_Tecnico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tela_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tela_Principal.Designer.cs">
+      <DependentUpon>FRM_Tela_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Cartao_Credito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Cartao_Credito.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Cartao_Credito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Cartao_Debito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Cartao_Debito.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Cartao_Debito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Cheque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Cheque.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Cheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Clientes.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Contas_Pagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Contas_Pagar.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Contas_Pagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Contas_Receber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Contas_Receber.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Contas_Receber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Estoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Estoque.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Estoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Fornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Fornecedores.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Fornecedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Funcionarios.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Livro_Caixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Tipo_Relatorio_Livro_Caixa.Designer.cs">
+      <DependentUpon>FRM_Tipo_Relatorio_Livro_Caixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Unid_Medida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Unid_Medida.Designer.cs">
+      <DependentUpon>FRM_Unid_Medida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Venda.Designer.cs">
+      <DependentUpon>FRM_Venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Ver_Produto_Entrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Ver_Produto_Entrada.Designer.cs">
+      <DependentUpon>FRM_Ver_Produto_Entrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Ver_Venda_de_Origem_CCred.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Ver_Venda_de_Origem_CCred.Designer.cs">
+      <DependentUpon>FRM_Ver_Venda_de_Origem_CCred.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Ver_Entrada_Origem_Contas_Pagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Ver_Entrada_Origem_Contas_Pagar.Designer.cs">
+      <DependentUpon>FRM_Ver_Entrada_Origem_Contas_Pagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Ver_Venda_Origem_CDebito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Ver_Venda_Origem_CDebito.Designer.cs">
+      <DependentUpon>FRM_Ver_Venda_Origem_CDebito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Ver_Venda_Origem_Cheque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Ver_Venda_Origem_Cheque.Designer.cs">
+      <DependentUpon>FRM_Ver_Venda_Origem_Cheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_Ver_Venda_Origem_Contas_Receber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_Ver_Venda_Origem_Contas_Receber.Designer.cs">
+      <DependentUpon>FRM_Ver_Venda_Origem_Contas_Receber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cartao_Credito_Listagem_Geral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cartao_Credito_Listagem_Geral.Designer.cs">
+      <DependentUpon>FRM_Cartao_Credito_Listagem_Geral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cartao_Credito_Periodo_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cartao_Credito_Periodo_Especifico.Designer.cs">
+      <DependentUpon>FRM_Cartao_Credito_Periodo_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cartao_Debito_Listagem_Geral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cartao_Debito_Listagem_Geral.Designer.cs">
+      <DependentUpon>FRM_Cartao_Debito_Listagem_Geral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cartao_Debito_Periodo_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cartao_Debito_Periodo_Especifico.Designer.cs">
+      <DependentUpon>FRM_Cartao_Debito_Periodo_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Aguardando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Aguardando.Designer.cs">
+      <DependentUpon>FRM_Cheque_Aguardando.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Depositados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Depositados.Designer.cs">
+      <DependentUpon>FRM_Cheque_Depositados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Depositar_Hoje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Depositar_Hoje.Designer.cs">
+      <DependentUpon>FRM_Cheque_Depositar_Hoje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Devolvidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Devolvidos.Designer.cs">
+      <DependentUpon>FRM_Cheque_Devolvidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Listagem_Geral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Listagem_Geral.Designer.cs">
+      <DependentUpon>FRM_Cheque_Listagem_Geral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Periodo_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cheque_Periodo_Especifico.Designer.cs">
+      <DependentUpon>FRM_Cheque_Periodo_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Clientes_LIstagem_Especifica_Divida_Atual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Clientes_LIstagem_Especifica_Divida_Atual.Designer.cs">
+      <DependentUpon>FRM_Clientes_LIstagem_Especifica_Divida_Atual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Clientes_LIstagem_Geral_Detalhado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Clientes_LIstagem_Geral_Detalhado.Designer.cs">
+      <DependentUpon>FRM_Clientes_LIstagem_Geral_Detalhado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Clientes_LIstagem_Geral_Resumida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Clientes_LIstagem_Geral_Resumida.Designer.cs">
+      <DependentUpon>FRM_Clientes_LIstagem_Geral_Resumida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cliente_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Cliente_Especifico.Designer.cs">
+      <DependentUpon>FRM_Cliente_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Comp_Venda_Demais_Formas_Pgto_Guiche.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Comp_Venda_Demais_Formas_Pgto_Guiche.Designer.cs">
+      <DependentUpon>FRM_Comp_Venda_Demais_Formas_Pgto_Guiche.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Comp_Venda_Demais_Formas_Pgto_Listagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Comp_Venda_Demais_Formas_Pgto_Listagem.Designer.cs">
+      <DependentUpon>FRM_Comp_Venda_Demais_Formas_Pgto_Listagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Comp_Venda_Parcelado_Guiche.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Comp_Venda_Parcelado_Guiche.Designer.cs">
+      <DependentUpon>FRM_Comp_Venda_Parcelado_Guiche.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Comp_Venda_Parcelado_Listagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Comp_Venda_Parcelado_Listagem.Designer.cs">
+      <DependentUpon>FRM_Comp_Venda_Parcelado_Listagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Listagem_Geral_Detalhado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Listagem_Geral_Detalhado.Designer.cs">
+      <DependentUpon>FRM_Contas_Pagar_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Listagem_Geral_Resumido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Listagem_Geral_Resumido.Designer.cs">
+      <DependentUpon>FRM_Contas_Pagar_Listagem_Geral_Resumido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Periodo_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Periodo_Especifico.Designer.cs">
+      <DependentUpon>FRM_Contas_Pagar_Periodo_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Vencendo_Hoje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Vencendo_Hoje.Designer.cs">
+      <DependentUpon>FRM_Contas_Pagar_Vencendo_Hoje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Vencidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Pagar_Vencidas.Designer.cs">
+      <DependentUpon>FRM_Contas_Pagar_Vencidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Listagem_Geral_Detalhado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Listagem_Geral_Detalhado.Designer.cs">
+      <DependentUpon>FRM_Contas_Receber_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Listagem_Geral_Resumido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Listagem_Geral_Resumido.Designer.cs">
+      <DependentUpon>FRM_Contas_Receber_Listagem_Geral_Resumido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Periodo_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Periodo_Especifico.Designer.cs">
+      <DependentUpon>FRM_Contas_Receber_Periodo_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Vencendo_Hoje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Vencendo_Hoje.Designer.cs">
+      <DependentUpon>FRM_Contas_Receber_Vencendo_Hoje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Vencidas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Contas_Receber_Vencidas.Designer.cs">
+      <DependentUpon>FRM_Contas_Receber_Vencidas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Dez_Mais_Vendidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Dez_Mais_Vendidos.Designer.cs">
+      <DependentUpon>FRM_Estoque_Dez_Mais_Vendidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Dez_Menos_Vendidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Dez_Menos_Vendidos.Designer.cs">
+      <DependentUpon>FRM_Estoque_Dez_Menos_Vendidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Inventario.Designer.cs">
+      <DependentUpon>FRM_Estoque_Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Listagem_Geral_Detalhado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Listagem_Geral_Detalhado.Designer.cs">
+      <DependentUpon>FRM_Estoque_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Listagem_Geral_Resumido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Listagem_Geral_Resumido.Designer.cs">
+      <DependentUpon>FRM_Estoque_Listagem_Geral_Resumido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Produto_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Produto_Especifico.Designer.cs">
+      <DependentUpon>FRM_Estoque_Produto_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Reposicao_Produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Reposicao_Produtos.Designer.cs">
+      <DependentUpon>FRM_Estoque_Reposicao_Produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Vencimento_Produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Estoque_Vencimento_Produtos.Designer.cs">
+      <DependentUpon>FRM_Estoque_Vencimento_Produtos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6180_Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6180_Categoria.Designer.cs">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6180_Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6180_Prod_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6180_Prod_Especifico.Designer.cs">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6180_Prod_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6180_Tipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6180_Tipo.Designer.cs">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6180_Tipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6181_Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6181_Categoria.Designer.cs">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6181_Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6181_Prod_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6181_Prod_Especifico.Designer.cs">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6181_Prod_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6181_Tipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6181_Tipo.Designer.cs">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6181_Tipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6182_Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6182_Categoria.Designer.cs">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6182_Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6182_Prod_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6182_Prod_Especifico.Designer.cs">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6182_Prod_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6182_Tipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6182_Tipo.Designer.cs">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6182_Tipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Fornecedores_Listagem_Geral_Detalhado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Fornecedores_Listagem_Geral_Detalhado.Designer.cs">
+      <DependentUpon>FRM_Fornecedores_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Fornecedores_Listagem_Geral_Resumido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Fornecedores_Listagem_Geral_Resumido.Designer.cs">
+      <DependentUpon>FRM_Fornecedores_Listagem_Geral_Resumido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Fornecedor_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Fornecedor_Especifico.Designer.cs">
+      <DependentUpon>FRM_Fornecedor_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Fornecedor_Especifico_Divida_Atual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Fornecedor_Especifico_Divida_Atual.Designer.cs">
+      <DependentUpon>FRM_Fornecedor_Especifico_Divida_Atual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Dez_Mais_Produtivos_Visao_Geral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Dez_Mais_Produtivos_Visao_Geral.Designer.cs">
+      <DependentUpon>FRM_Funcionarios_Dez_Mais_Produtivos_Visao_Geral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Dez_Menos_Produtivos_Visao_Geral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Dez_Menos_Produtivos_Visao_Geral.Designer.cs">
+      <DependentUpon>FRM_Funcionarios_Dez_Menos_Produtivos_Visao_Geral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Listagem_Geal_Comissoes_Receber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Listagem_Geal_Comissoes_Receber.Designer.cs">
+      <DependentUpon>FRM_Funcionarios_Listagem_Geal_Comissoes_Receber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Listagem_Geral_Detalhado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Listagem_Geral_Detalhado.Designer.cs">
+      <DependentUpon>FRM_Funcionarios_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Listagem_Geral_Resumido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionarios_Listagem_Geral_Resumido.Designer.cs">
+      <DependentUpon>FRM_Funcionarios_Listagem_Geral_Resumido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionario_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionario_Especifico.Designer.cs">
+      <DependentUpon>FRM_Funcionario_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionario_Especifico_Comissoes_Receber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Funcionario_Especifico_Comissoes_Receber.Designer.cs">
+      <DependentUpon>FRM_Funcionario_Especifico_Comissoes_Receber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Livro_Caixa_Periodo_Especifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Livro_Caixa_Periodo_Especifico.Designer.cs">
+      <DependentUpon>FRM_Livro_Caixa_Periodo_Especifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Orcamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Orcamentos.Designer.cs">
+      <DependentUpon>FRM_Orcamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Automotivo_Pagina_Anexo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Automotivo_Pagina_Anexo.Designer.cs">
+      <DependentUpon>FRM_Ordem_Servico_Automotivo_Pagina_Anexo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Eletro_Pagina_Anexo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Eletro_Pagina_Anexo.Designer.cs">
+      <DependentUpon>FRM_Ordem_Servico_Eletro_Pagina_Anexo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Em_Branco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Em_Branco.Designer.cs">
+      <DependentUpon>FRM_Ordem_Servico_Em_Branco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Preenchida_Automotivo_Print_Master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Preenchida_Automotivo_Print_Master.Designer.cs">
+      <DependentUpon>FRM_Ordem_Servico_Preenchida_Automotivo_Print_Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Preenchida_Eletro_Print_Master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Ordem_Servico_Preenchida_Eletro_Print_Master.Designer.cs">
+      <DependentUpon>FRM_Ordem_Servico_Preenchida_Eletro_Print_Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Vendas_Fechamento_Dia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\FRM_Vendas_Fechamento_Dia.Designer.cs">
+      <DependentUpon>FRM_Vendas_Fechamento_Dia.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CamadaDados\CamadaDados.csproj">
+      <Project>{04c10ce5-cf7d-48a2-9740-d101fec17b17}</Project>
+      <Name>CamadaDados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CamadaNegocio\CamadaNegocio.csproj">
+      <Project>{e5b1a191-de5b-4bcd-bf81-5be708457feb}</Project>
+      <Name>CamadaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FRM_Abrir_Caixa.resx">
+      <DependentUpon>FRM_Abrir_Caixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Assistente_Relatorios.resx">
+      <DependentUpon>FRM_Assistente_Relatorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Atalho_Novo_Cliente_OS.resx">
+      <DependentUpon>FRM_Atalho_Novo_Cliente_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Atalho_Novo_Cliente_Venda.resx">
+      <DependentUpon>FRM_Atalho_Novo_Cliente_Venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Atualizar_Dados_Secundários_OS.resx">
+      <DependentUpon>FRM_Atualizar_Dados_Secundários_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Autenticar_Mensalidade.resx">
+      <DependentUpon>FRM_Autenticar_Mensalidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Backup_Restauracao_DB.resx">
+      <DependentUpon>FRM_Backup_Restauracao_DB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Cliente_OS.resx">
+      <DependentUpon>FRM_Buscar_Cliente_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Cliente_Venda.resx">
+      <DependentUpon>FRM_Buscar_Cliente_Venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Orcamento.resx">
+      <DependentUpon>FRM_Buscar_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_OS.resx">
+      <DependentUpon>FRM_Buscar_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_OS_Pronto.resx">
+      <DependentUpon>FRM_Buscar_OS_Pronto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Produto_Atualizar_OS.resx">
+      <DependentUpon>FRM_Buscar_Produto_Atualizar_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Produto_Etiquetas.resx">
+      <DependentUpon>FRM_Buscar_Produto_Etiquetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Produto_Orcamento.resx">
+      <DependentUpon>FRM_Buscar_Produto_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Produto_OS.resx">
+      <DependentUpon>FRM_Buscar_Produto_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Produto_Pesquisa_Preco.resx">
+      <DependentUpon>FRM_Buscar_Produto_Pesquisa_Preco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Produto_Relatorio_Especifico.resx">
+      <DependentUpon>FRM_Buscar_Produto_Relatorio_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Buscar_Produto_Venda.resx">
+      <DependentUpon>FRM_Buscar_Produto_Venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Caixa_Operacao_Dia.resx">
+      <DependentUpon>FRM_Caixa_Operacao_Dia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Configuracoes_gerais.resx">
+      <DependentUpon>FRM_Configuracoes_gerais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Config_Cartao_Credito.resx">
+      <DependentUpon>FRM_Config_Cartao_Credito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Config_Cartao_Debito.resx">
+      <DependentUpon>FRM_Config_Cartao_Debito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Config_Juros_Atraso.resx">
+      <DependentUpon>FRM_Config_Juros_Atraso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Config_Juros_Parcelamento.resx">
+      <DependentUpon>FRM_Config_Juros_Parcelamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Config_Nivel_Acesso.resx">
+      <DependentUpon>FRM_Config_Nivel_Acesso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Config_Orcamento.resx">
+      <DependentUpon>FRM_Config_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Config_OS.resx">
+      <DependentUpon>FRM_Config_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Controle_Cartao_Credito.resx">
+      <DependentUpon>FRM_Controle_Cartao_Credito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Controle_Cartao_Debito.resx">
+      <DependentUpon>FRM_Controle_Cartao_Debito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Controle_Cheque.resx">
+      <DependentUpon>FRM_Controle_Cheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Deletar_Mais_1_Item_Entrada.resx">
+      <DependentUpon>FRM_Deletar_Mais_1_Item_Entrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Deletar_Mais_1_Item_Orcamento.resx">
+      <DependentUpon>FRM_Deletar_Mais_1_Item_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Deletar_mais_1_Item_Venda.resx">
+      <DependentUpon>FRM_Deletar_mais_1_Item_Venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Desbloquear_Sistema.resx">
+      <DependentUpon>FRM_Desbloquear_Sistema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Detalhes_Cheque.resx">
+      <DependentUpon>FRM_Detalhes_Cheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Detalhes_Cheque_Multiformas.resx">
+      <DependentUpon>FRM_Detalhes_Cheque_Multiformas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Detalhes_Cheque_Orcamento.resx">
+      <DependentUpon>FRM_Detalhes_Cheque_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Detalhe_Config_Cartao_Credito.resx">
+      <DependentUpon>FRM_Detalhe_Config_Cartao_Credito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Detalhe_Config_Cartao_Debito.resx">
+      <DependentUpon>FRM_Detalhe_Config_Cartao_Debito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Entrada_em_Dinheiro_Card_Cred.resx">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Card_Cred.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Entrada_em_Dinheiro_Card_Cred_Orcamento.resx">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Card_Cred_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Entrada_em_Dinheiro_Cheque.resx">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Cheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Entrada_em_Dinheiro_Cheque_Orcamento.resx">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Cheque_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Entrada_em_Dinheiro_Cred_Loja.resx">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Cred_Loja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Entrada_em_Dinheiro_Cred_Loja_Orcamento.resx">
+      <DependentUpon>FRM_Entrada_em_Dinheiro_Cred_Loja_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Equipamentos.resx">
+      <DependentUpon>FRM_Equipamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Etiquetas.resx">
+      <DependentUpon>FRM_Etiquetas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Fechar_Caixa.resx">
+      <DependentUpon>FRM_Fechar_Caixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Formas_Pgto_Venda.resx">
+      <DependentUpon>FRM_Formas_Pgto_Venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Gerar_Contas_Pagar.resx">
+      <DependentUpon>FRM_Gerar_Contas_Pagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Caixa.resx">
+      <DependentUpon>FRM_Caixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Categoria.resx">
+      <DependentUpon>FRM_Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Cliente.resx">
+      <DependentUpon>FRM_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Contas_Pagar.resx">
+      <DependentUpon>FRM_Contas_Pagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Contas_Receber.resx">
+      <DependentUpon>FRM_Contas_Receber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Entrada.resx">
+      <DependentUpon>FRM_Entrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Fornecedor.resx">
+      <DependentUpon>FRM_Fornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Funcionario.resx">
+      <DependentUpon>FRM_Funcionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Guiche_Atendimento.resx">
+      <DependentUpon>FRM_Guiche_Atendimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Imprimir_OS_Em_Branco.resx">
+      <DependentUpon>FRM_Imprimir_OS_Em_Branco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Cartao_Credito.resx">
+      <DependentUpon>FRM_Informacoes_Cartao_Credito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Cartao_Credito_Multiformas.resx">
+      <DependentUpon>FRM_Informacoes_Cartao_Credito_Multiformas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Cartao_Credito_Orcamento.resx">
+      <DependentUpon>FRM_Informacoes_Cartao_Credito_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Cartao_Debito.resx">
+      <DependentUpon>FRM_Informacoes_Cartao_Debito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Cartao_Debito_Orcamento.resx">
+      <DependentUpon>FRM_Informacoes_Cartao_Debito_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Cheque.resx">
+      <DependentUpon>FRM_Informacoes_Cheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Cheque_Multiformas.resx">
+      <DependentUpon>FRM_Informacoes_Cheque_Multiformas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Cheque_Orcamento.resx">
+      <DependentUpon>FRM_Informacoes_Cheque_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Crediario_Loja.resx">
+      <DependentUpon>FRM_Informacoes_Crediario_Loja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Crediario_Loja_Multiformas.resx">
+      <DependentUpon>FRM_Informacoes_Crediario_Loja_Multiformas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Informacoes_Crediario_Loja_Orcamento.resx">
+      <DependentUpon>FRM_Informacoes_Crediario_Loja_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Info_Config_Backup.resx">
+      <DependentUpon>FRM_Info_Config_Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Inserir_Fab_Venc.resx">
+      <DependentUpon>FRM_Inserir_Fab_Venc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Lancar_Credito.resx">
+      <DependentUpon>FRM_Lancar_Credito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Lancar_Credito_Primeiro_Uso.resx">
+      <DependentUpon>FRM_Lancar_Credito_Primeiro_Uso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Lancar_Debito.resx">
+      <DependentUpon>FRM_Lancar_Debito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Licenciamento.resx">
+      <DependentUpon>FRM_Licenciamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Livro_Caixa.resx">
+      <DependentUpon>FRM_Livro_Caixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Login.resx">
+      <DependentUpon>FRM_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Numeracao_Auto.resx">
+      <DependentUpon>FRM_Numeracao_Auto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Opcoes_Atualizar_OS.resx">
+      <DependentUpon>FRM_Opcoes_Atualizar_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Orcamento.resx">
+      <DependentUpon>FRM_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_OS.resx">
+      <DependentUpon>FRM_OS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Pagar_Contas_Externo.resx">
+      <DependentUpon>FRM_Pagar_Contas_Externo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Pagar_Contas_Interno.resx">
+      <DependentUpon>FRM_Pagar_Contas_Interno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Pesquisar_Preco.resx">
+      <DependentUpon>FRM_Pesquisar_Preco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Pesquisa_Especifica_Contas_Pagar.resx">
+      <DependentUpon>FRM_Pesquisa_Especifica_Contas_Pagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Pesquisa_Especifica_Contas_Receber.resx">
+      <DependentUpon>FRM_Pesquisa_Especifica_Contas_Receber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Primeiro_Uso.resx">
+      <DependentUpon>FRM_Primeiro_Uso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Assistente_Impressao_Ordem_Serviço.resx">
+      <DependentUpon>FRM_Assistente_Impressao_Ordem_Serviço.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Produto.resx">
+      <DependentUpon>FRM_Produto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Receber_Contas_Externo.resx">
+      <DependentUpon>FRM_Receber_Contas_Externo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Receber_Contas_Interno.resx">
+      <DependentUpon>FRM_Receber_Contas_Interno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Selecionar_Bandeira_Cartao_Credito.resx">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Credito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Selecionar_Bandeira_Cartao_Credito_Multiformas.resx">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Credito_Multiformas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Selecionar_Bandeira_Cartao_Credito_Orcamento.resx">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Credito_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Selecionar_Bandeira_Cartao_Debito.resx">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Debito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Selecionar_Bandeira_Cartao_Debito_Orcamento.resx">
+      <DependentUpon>FRM_Selecionar_Bandeira_Cartao_Debito_Orcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Selecionar_Configuracoes.resx">
+      <DependentUpon>FRM_Selecionar_Configuracoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Selecionar_Controle_Financas.resx">
+      <DependentUpon>FRM_Selecionar_Controle_Financas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Solicitar_Permissao_Deletar_Conta_Receber.resx">
+      <DependentUpon>FRM_Solicitar_Permissao_Deletar_Conta_Receber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Solicitar_Permissao_Deletar_Item_Venda.resx">
+      <DependentUpon>FRM_Solicitar_Permissao_Deletar_Item_Venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Solicitar_Permissao_Inserir_Conta_Receber.resx">
+      <DependentUpon>FRM_Solicitar_Permissao_Inserir_Conta_Receber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tarefas_OS_Em_Branco.resx">
+      <DependentUpon>FRM_Tarefas_OS_Em_Branco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tecnico.resx">
+      <DependentUpon>FRM_Tecnico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tela_Principal.resx">
+      <DependentUpon>FRM_Tela_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Cartao_Credito.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Cartao_Credito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Cartao_Debito.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Cartao_Debito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Cheque.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Cheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Clientes.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Contas_Pagar.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Contas_Pagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Contas_Receber.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Contas_Receber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Estoque.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Estoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Fornecedores.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Fornecedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Funcionarios.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Tipo_Relatorio_Livro_Caixa.resx">
+      <DependentUpon>FRM_Tipo_Relatorio_Livro_Caixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Unid_Medida.resx">
+      <DependentUpon>FRM_Unid_Medida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Venda.resx">
+      <DependentUpon>FRM_Venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Ver_Produto_Entrada.resx">
+      <DependentUpon>FRM_Ver_Produto_Entrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Ver_Venda_de_Origem_CCred.resx">
+      <DependentUpon>FRM_Ver_Venda_de_Origem_CCred.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Ver_Entrada_Origem_Contas_Pagar.resx">
+      <DependentUpon>FRM_Ver_Entrada_Origem_Contas_Pagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Ver_Venda_Origem_CDebito.resx">
+      <DependentUpon>FRM_Ver_Venda_Origem_CDebito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Ver_Venda_Origem_Cheque.resx">
+      <DependentUpon>FRM_Ver_Venda_Origem_Cheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_Ver_Venda_Origem_Contas_receber.resx">
+      <DependentUpon>FRM_Ver_Venda_Origem_Contas_Receber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Cartao_Credito_Listagem_Geral.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cartao_Credito_Periodo_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cartao_Debito_Listagem_Geral.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cartao_Debito_Periodo_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cheque_Aguardando.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cheque_Depositados.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cheque_Depositar_Hoje.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cheque_Devolvidos.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cheque_Listagem_Geral.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cheque_Periodo_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Clientes_Listagem_Especifica_Divida_Atual.rdlc" />
+    <EmbeddedResource Include="Relatorios\Clientes_Listagem_Geral_Detalhado.rdlc" />
+    <EmbeddedResource Include="Relatorios\Clientes_Listagem_Geral_Resumida.rdlc" />
+    <EmbeddedResource Include="Relatorios\Cliente_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Comp_Venda_Demais_Formas_Pgto.rdlc" />
+    <EmbeddedResource Include="Relatorios\Comp_Venda_Parcelado.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Pagar_Listagem_Geral_Detalhado.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Pagar_Listagem_Geral_Resumido.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Pagar_Periodo_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Pagar_Vencidas.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Receber_Listagem_Geral_Detalhado.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Receber_Listagem_Geral_Resumido.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Receber_Periodo_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Receber_Vencendo_Hoje.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Receber_Vencidas.rdlc" />
+    <EmbeddedResource Include="Relatorios\Estoque_Dez_Mais_Vendidos.rdlc" />
+    <EmbeddedResource Include="Relatorios\Estoque_Dez_Menos_Vendidos.rdlc" />
+    <EmbeddedResource Include="Relatorios\Estoque_Inventario.rdlc" />
+    <EmbeddedResource Include="Relatorios\Estoque_Listagem_Geral_Detalhado.rdlc" />
+    <EmbeddedResource Include="Relatorios\Estoque_Listagem_Geral_Resumido.rdlc" />
+    <EmbeddedResource Include="Relatorios\Estoque_Produto_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Estoque_Reposicao_Produtos.rdlc" />
+    <EmbeddedResource Include="Relatorios\Estoque_Vencimento_Produtos.rdlc" />
+    <EmbeddedResource Include="Relatorios\Etiqueta_Carta_Pimaco6180_Categoria.rdlc" />
+    <EmbeddedResource Include="Relatorios\Etiqueta_Carta_Pimaco6180_Prod_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Etiqueta_Carta_Pimaco6180_Tipo.rdlc" />
+    <EmbeddedResource Include="Relatorios\Etiqueta_Carta_Pimaco6181_Categoria.rdlc" />
+    <EmbeddedResource Include="Relatorios\Etiqueta_Carta_Pimaco6181_Prod_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Etiqueta_Carta_Pimaco6181_Tipo.rdlc" />
+    <EmbeddedResource Include="Relatorios\Etiqueta_Carta_Pimaco6182_Categoria.rdlc" />
+    <EmbeddedResource Include="Relatorios\Etiqueta_Carta_Pimaco6182_Prod_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Etiqueta_Carta_Pimaco6182_Tipo.rdlc" />
+    <EmbeddedResource Include="Relatorios\Fornecedores_Listagem_Geral_Detalhado.rdlc" />
+    <EmbeddedResource Include="Relatorios\Fornecedores_Listagem_Geral_Resumido.rdlc" />
+    <EmbeddedResource Include="Relatorios\Fornecedor_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Fornecedor_Especifico_Divida_Atual.rdlc" />
+    <EmbeddedResource Include="Relatorios\FRM_Cartao_Credito_Listagem_Geral.resx">
+      <DependentUpon>FRM_Cartao_Credito_Listagem_Geral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cartao_Credito_Periodo_Especifico.resx">
+      <DependentUpon>FRM_Cartao_Credito_Periodo_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cartao_Debito_Listagem_Geral.resx">
+      <DependentUpon>FRM_Cartao_Debito_Listagem_Geral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cartao_Debito_Periodo_Especifico.resx">
+      <DependentUpon>FRM_Cartao_Debito_Periodo_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cheque_Aguardando.resx">
+      <DependentUpon>FRM_Cheque_Aguardando.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cheque_Depositados.resx">
+      <DependentUpon>FRM_Cheque_Depositados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cheque_Depositar_Hoje.resx">
+      <DependentUpon>FRM_Cheque_Depositar_Hoje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cheque_Devolvidos.resx">
+      <DependentUpon>FRM_Cheque_Devolvidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cheque_Listagem_Geral.resx">
+      <DependentUpon>FRM_Cheque_Listagem_Geral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cheque_Periodo_Especifico.resx">
+      <DependentUpon>FRM_Cheque_Periodo_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Clientes_LIstagem_Especifica_Divida_Atual.resx">
+      <DependentUpon>FRM_Clientes_LIstagem_Especifica_Divida_Atual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Clientes_LIstagem_Geral_Detalhado.resx">
+      <DependentUpon>FRM_Clientes_LIstagem_Geral_Detalhado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Clientes_LIstagem_Geral_Resumida.resx">
+      <DependentUpon>FRM_Clientes_LIstagem_Geral_Resumida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Cliente_Especifico.resx">
+      <DependentUpon>FRM_Cliente_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Comp_Venda_Demais_Formas_Pgto_Guiche.resx">
+      <DependentUpon>FRM_Comp_Venda_Demais_Formas_Pgto_Guiche.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Comp_Venda_Demais_Formas_Pgto_Listagem.resx">
+      <DependentUpon>FRM_Comp_Venda_Demais_Formas_Pgto_Listagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Comp_Venda_Parcelado_Guiche.resx">
+      <DependentUpon>FRM_Comp_Venda_Parcelado_Guiche.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Comp_Venda_Parcelado_Listagem.resx">
+      <DependentUpon>FRM_Comp_Venda_Parcelado_Listagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Pagar_Listagem_Geral_Detalhado.resx">
+      <DependentUpon>FRM_Contas_Pagar_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Pagar_Listagem_Geral_Resumido.resx">
+      <DependentUpon>FRM_Contas_Pagar_Listagem_Geral_Resumido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Pagar_Periodo_Especifico.resx">
+      <DependentUpon>FRM_Contas_Pagar_Periodo_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Pagar_Vencendo_Hoje.resx">
+      <DependentUpon>FRM_Contas_Pagar_Vencendo_Hoje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Pagar_Vencidas.resx">
+      <DependentUpon>FRM_Contas_Pagar_Vencidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Receber_Listagem_Geral_Detalhado.resx">
+      <DependentUpon>FRM_Contas_Receber_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Receber_Listagem_Geral_Resumido.resx">
+      <DependentUpon>FRM_Contas_Receber_Listagem_Geral_Resumido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Receber_Periodo_Especifico.resx">
+      <DependentUpon>FRM_Contas_Receber_Periodo_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Receber_Vencendo_Hoje.resx">
+      <DependentUpon>FRM_Contas_Receber_Vencendo_Hoje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Contas_Receber_Vencidas.resx">
+      <DependentUpon>FRM_Contas_Receber_Vencidas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Estoque_Dez_Mais_Vendidos.resx">
+      <DependentUpon>FRM_Estoque_Dez_Mais_Vendidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Estoque_Dez_Menos_Vendidos.resx">
+      <DependentUpon>FRM_Estoque_Dez_Menos_Vendidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Estoque_Inventario.resx">
+      <DependentUpon>FRM_Estoque_Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Estoque_Listagem_Geral_Detalhado.resx">
+      <DependentUpon>FRM_Estoque_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Estoque_Listagem_Geral_Resumido.resx">
+      <DependentUpon>FRM_Estoque_Listagem_Geral_Resumido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Estoque_Produto_Especifico.resx">
+      <DependentUpon>FRM_Estoque_Produto_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Estoque_Reposicao_Produtos.resx">
+      <DependentUpon>FRM_Estoque_Reposicao_Produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Estoque_Vencimento_Produtos.resx">
+      <DependentUpon>FRM_Estoque_Vencimento_Produtos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6180_Categoria.resx">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6180_Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6180_Prod_Especifico.resx">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6180_Prod_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6180_Tipo.resx">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6180_Tipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6181_Categoria.resx">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6181_Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6181_Prod_Especifico.resx">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6181_Prod_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6181_Tipo.resx">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6181_Tipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6182_Categoria.resx">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6182_Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6182_Prod_Especifico.resx">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6182_Prod_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Etiqueta_Carta_Pimaco6182_Tipo.resx">
+      <DependentUpon>FRM_Etiqueta_Carta_Pimaco6182_Tipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Fornecedores_Listagem_Geral_Detalhado.resx">
+      <DependentUpon>FRM_Fornecedores_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Fornecedores_Listagem_Geral_Resumido.resx">
+      <DependentUpon>FRM_Fornecedores_Listagem_Geral_Resumido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Fornecedor_Especifico.resx">
+      <DependentUpon>FRM_Fornecedor_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Fornecedor_Especifico_Divida_Atual.resx">
+      <DependentUpon>FRM_Fornecedor_Especifico_Divida_Atual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Funcionarios_Dez_Mais_Produtivos_Visao_Geral.resx">
+      <DependentUpon>FRM_Funcionarios_Dez_Mais_Produtivos_Visao_Geral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Funcionarios_Dez_Menos_Produtivos_Visao_Geral.resx">
+      <DependentUpon>FRM_Funcionarios_Dez_Menos_Produtivos_Visao_Geral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Funcionarios_Listagem_Geal_Comissoes_Receber.resx">
+      <DependentUpon>FRM_Funcionarios_Listagem_Geal_Comissoes_Receber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Funcionario_Especifico.resx">
+      <DependentUpon>FRM_Funcionario_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Funcionario_Especifico_Comissoes_Receber.resx">
+      <DependentUpon>FRM_Funcionario_Especifico_Comissoes_Receber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Orcamentos.resx">
+      <DependentUpon>FRM_Orcamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Ordem_Servico_Automotivo_Pagina_Anexo.resx">
+      <DependentUpon>FRM_Ordem_Servico_Automotivo_Pagina_Anexo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Ordem_Servico_Eletro_Pagina_Anexo.resx">
+      <DependentUpon>FRM_Ordem_Servico_Eletro_Pagina_Anexo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Ordem_Servico_Em_Branco.resx">
+      <DependentUpon>FRM_Ordem_Servico_Em_Branco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Ordem_Servico_Preenchida_Automotivo_Print_Master.resx">
+      <DependentUpon>FRM_Ordem_Servico_Preenchida_Automotivo_Print_Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Ordem_Servico_Preenchida_Eletro_Print_Master.resx">
+      <DependentUpon>FRM_Ordem_Servico_Preenchida_Eletro_Print_Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Vendas_Fechamento_Dia.resx">
+      <DependentUpon>FRM_Vendas_Fechamento_Dia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Funcionarios_Dez_Mais_Produtivos.rdlc" />
+    <EmbeddedResource Include="Relatorios\Funcionarios_Dez_Menos_Produtivos.rdlc" />
+    <EmbeddedResource Include="Relatorios\Funcionarios_Listagem_Geral_Comissoes_Receber.rdlc" />
+    <EmbeddedResource Include="Relatorios\Funcionarios_Listagem_Geral_Detalhado.rdlc" />
+    <EmbeddedResource Include="Relatorios\FRM_Funcionarios_Listagem_Geral_Detalhado.resx">
+      <DependentUpon>FRM_Funcionarios_Listagem_Geral_Detalhado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Funcionarios_Listagem_Geral_Resumido.resx">
+      <DependentUpon>FRM_Funcionarios_Listagem_Geral_Resumido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\FRM_Livro_Caixa_Periodo_Especifico.resx">
+      <DependentUpon>FRM_Livro_Caixa_Periodo_Especifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Funcionarios_Listagem_Geral_Resumido.rdlc" />
+    <EmbeddedResource Include="Relatorios\Funcionario_especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Funcionario_Especifico_Comissoes_Receber.rdlc" />
+    <EmbeddedResource Include="Relatorios\Livro_Caixa_Periodo_Especifico.rdlc" />
+    <EmbeddedResource Include="Relatorios\Contas_Pagar_Vencendo_Hoje.rdlc" />
+    <EmbeddedResource Include="Relatorios\Orcamento.rdlc" />
+    <EmbeddedResource Include="Relatorios\Ordem_Servico_Automotivo_Pagina_Anexo.rdlc" />
+    <EmbeddedResource Include="Relatorios\Ordem_Servico_Em_Branco.rdlc" />
+    <EmbeddedResource Include="Relatorios\Ordem_Servico_Preenchida_Automotivo.rdlc" />
+    <EmbeddedResource Include="Relatorios\Ordem_Servico_Preenchida_Eletro.rdlc" />
+    <EmbeddedResource Include="Relatorios\Ordem_Servico_Eletro_Pagina_Anexo.rdlc" />
+    <EmbeddedResource Include="Relatorios\Vendas_Fechamento_Dia.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="ClassDiagram4.cd" />
+    <None Include="ClassDiagram5.cd" />
+    <None Include="ClassDiagram6.cd" />
+    <None Include="ClassDiagram7.cd" />
+    <None Include="DS_Cartao_Credito.xsc">
+      <DependentUpon>DS_Cartao_Credito.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Cartao_Credito.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Cartao_Credito.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Cartao_Credito.xss">
+      <DependentUpon>DS_Cartao_Credito.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Cartao_Debito.xsc">
+      <DependentUpon>DS_Cartao_Debito.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Cartao_Debito.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Cartao_Debito.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Cartao_Debito.xss">
+      <DependentUpon>DS_Cartao_Debito.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Cheque.xsc">
+      <DependentUpon>DS_Cheque.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Cheque.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Cheque.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Cheque.xss">
+      <DependentUpon>DS_Cheque.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Clientes.xsc">
+      <DependentUpon>DS_Clientes.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Clientes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Clientes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Clientes.xss">
+      <DependentUpon>DS_Clientes.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Comprovante_Venda.xsc">
+      <DependentUpon>DS_Comprovante_Venda.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Comprovante_Venda.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Comprovante_Venda.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Comprovante_Venda.xss">
+      <DependentUpon>DS_Comprovante_Venda.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Contas_Pagar.xsc">
+      <DependentUpon>DS_Contas_Pagar.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Contas_Pagar.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Contas_Pagar.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Contas_Pagar.xss">
+      <DependentUpon>DS_Contas_Pagar.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Contas_Receber.xsc">
+      <DependentUpon>DS_Contas_Receber.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Contas_Receber.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Contas_Receber.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Contas_Receber.xss">
+      <DependentUpon>DS_Contas_Receber.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Estoque.xsc">
+      <DependentUpon>DS_Estoque.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Estoque.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Estoque.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Estoque.xss">
+      <DependentUpon>DS_Estoque.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Etiquetas.xsc">
+      <DependentUpon>DS_Etiquetas.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Etiquetas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Etiquetas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Etiquetas.xss">
+      <DependentUpon>DS_Etiquetas.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Fornecedores.xsc">
+      <DependentUpon>DS_Fornecedores.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Fornecedores.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Fornecedores.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Fornecedores.xss">
+      <DependentUpon>DS_Fornecedores.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Funcionarios.xsc">
+      <DependentUpon>DS_Funcionarios.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Funcionarios.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Funcionarios.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Funcionarios.xss">
+      <DependentUpon>DS_Funcionarios.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Livro_Caixa.xsc">
+      <DependentUpon>DS_Livro_Caixa.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Livro_Caixa.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Livro_Caixa.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Livro_Caixa.xss">
+      <DependentUpon>DS_Livro_Caixa.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Orcamento.xsc">
+      <DependentUpon>DS_Orcamento.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Orcamento.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Orcamento.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Orcamento.xss">
+      <DependentUpon>DS_Orcamento.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Ordem_Servico.xsc">
+      <DependentUpon>DS_Ordem_Servico.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Ordem_Servico.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Ordem_Servico.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Ordem_Servico.xss">
+      <DependentUpon>DS_Ordem_Servico.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Vendas.xsc">
+      <DependentUpon>DS_Vendas.xsd</DependentUpon>
+    </None>
+    <None Include="DS_Vendas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Vendas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DS_Vendas.xss">
+      <DependentUpon>DS_Vendas.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\Carregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Limpar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DefaultImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fundo_White.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aparencia_Form.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aparencia_FormTPrincipal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Estoque.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fornecedores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Funcionarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Livro Caixa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contas a receber.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User_Logado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login cad e chave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User_Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddIten.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Removeitem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Venda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quitarr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quitar2png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quitar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contas_a_Pagar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quitar_icone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quitar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\os_icone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\os_icone2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Caixa_Icone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Caixa_Icone2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginRed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TAG-WE---WhatsApp-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TAG WE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TAG WE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fechar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fechar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Confirmar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fechar_Caixa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Novo24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel22x22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Confirmar16x12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancel16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Limpr16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Outras_Financas85x55.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\servicos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\servicos2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ver_Origem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ver_Origem_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Limpar_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Novo16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editar16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excluir_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desbloquear_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desbloquear_20x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desbloqiear_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Developer_Black_63759-%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Config_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Saida_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backup_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ver_Vendas_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atualizar_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imprimir_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chave_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pesquisar_Preco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pesquisar_Preco2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pesquisar_Preco3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ver_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTN_Repot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BTN_Report_Oficial.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Report_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Report_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unid_Medida_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Categoria_16x16_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Entrada_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\No_BarCode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\No_BarCode_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Etiquetas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Config.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Concluir_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OS2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OS3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tecnico_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Equipamentos_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tarefas_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Caixa_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Informação_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Importar_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Livro_Caixa2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Livro_Caixa3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Livro_Caixa4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orcamento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sair_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abrir.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
